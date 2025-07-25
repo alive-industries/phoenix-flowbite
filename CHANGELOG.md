@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2025-01-25
+
 ### Fixed
 - **BREAKING**: Updated installation task to use `flowbite.phoenix.js` instead of regular `flowbite.js`
 - Updated documentation to emphasize importance of Phoenix LiveView compatible JavaScript

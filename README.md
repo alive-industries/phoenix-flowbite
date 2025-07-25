@@ -52,7 +52,7 @@ Add `flowbite_phoenix` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:flowbite_phoenix, "~> 0.1.0"}
+    {:flowbite_phoenix, "~> 0.1.1"}
   ]
 end
 ```

@@ -20,7 +20,7 @@ defmodule FlowbitePhoenix do
 
       def deps do
         [
-          {:flowbite_phoenix, "~> 0.1.0"}
+          {:flowbite_phoenix, "~> 0.1.1"}
         ]
       end
 
